@@ -3,7 +3,7 @@
 <!-- Animation Typing -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=My+name+is+Oluwaseyi;I'm+a+Web+Developer;I+Transform+visions+into+seamless+realities"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&lines=My+name+is+Oluwaseyi;I'm+a+Web+Developer;I+Transform+visions+into+seamless+realities"></a>
 </p>
 
 <!-- Profile Views -->
@@ -13,7 +13,8 @@
 
 <!-- Image GiF -->
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="Creative Tech GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="480" height="292" />
+
 
 <!-- About Me -->
 
@@ -26,9 +27,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with interesting Projects and team members.
 - 😄 Fun fact: I love watching Football, Eating and Coding.
 - 📫 How to reach me: [**seyimeshileya@gmail.com**](mailto:seyimeshileya@gmail.com).
-
+<br />
 <!-- My Skills -->
-
 
 ## 🛠️ My Skills
 
@@ -55,18 +55,12 @@ Here are some ideas to get you started:
   <!-- Github Stats -->
 
 </details>
-
 ## :fire: Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seyimesh&show_icons=true&locale=en&theme=tokyonight" alt="seyimesh" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=seyimesh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="seyimesh" /></p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seyimesh&&theme=tokyonight" alt="seyimesh" /></p> -->
-
-
-
-<!--[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=seyimesh&&theme=xcode)](https://github.com/seyimesh) -->
-
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=seyimesh&show_icons=true&locale=en&theme=tokyonight" alt="seyimesh" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=seyimesh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="seyimesh" />
+</div>
 
 <!-- Github Stats ENDs Here -->
 
