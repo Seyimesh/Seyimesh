@@ -13,7 +13,7 @@
 
 <!-- Image GiF -->
 
-<img align="right" alt="Creative Tech GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="480" height="292" />
+<img align="right" alt="Creative Tech GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="420" height="292" />
 
 
 <!-- About Me -->
