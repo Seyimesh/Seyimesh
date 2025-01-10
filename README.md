@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 - 😄 Fun fact: I love watching Football, Eating and Coding.
 - 📫 How to reach me: [**seyimeshileya@gmail.com**](mailto:seyimeshileya@gmail.com).
 
+<!-- My Skills -->
+
+
 ## 🛠️ My Skills
 
 <p align="left"> 
