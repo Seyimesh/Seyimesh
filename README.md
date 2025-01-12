@@ -1,10 +1,5 @@
 <h1 align="center"> Hello Fellow Builders <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 
-<!-- Animation Typing -->
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&lines=My+name+is+Oluwaseyi;I'm+a+Web+Developer;I+Transform+visions+into+seamless+realities"></a>
-</p>
 
 <!-- Profile Views -->
 
@@ -18,7 +13,7 @@
 
 <!-- About Me -->
 
-Here are some ideas to get you started:
+Welcome to My Profile!:
 
 - 👋 Hi, I’m Oluwaseyi Meshileya.
 - 💼 I'm a Web developer.
